@@ -1,4 +1,4 @@
-MechSIT built the Culinary Arts Chef Quiz app as a Free app. This SERVICE is provided by MechSIT at no cost and is intended for use as is.
+MechSIT built the Culinary Arts Chef Quiz app as an Ad Supported app. This SERVICE is provided by MechSIT at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -17,6 +17,7 @@ Link to the privacy policy of third-party service providers used by the app
 Google Play Services
 AdMob
 Google Analytics for Firebase
+Firebase Crashlytics
 Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
@@ -53,7 +54,7 @@ Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-12-07
+This policy is effective as of 2023-03-26
 
 Contact Us
 
